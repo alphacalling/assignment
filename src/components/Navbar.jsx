@@ -23,7 +23,7 @@ function Navbar() {
           </li>
         </div>
 
-        <div className="flex space-x-4">
+        <div className="flex space-x-4 ml-2">
           <Fragment>
             <li>
               <Link
