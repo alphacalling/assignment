@@ -36,7 +36,7 @@ function Navbar() {
             <li>
               <Link
                 to="/signup"
-                className="bg-white text-blue-600 hover:bg-gray-200 px-4 py-2 mr-2 rounded-full font-semibold transition-all duration-300 ease-in-out"
+                className="bg-white text-blue-600 hover:bg-gray-200 px-4 py-2 rounded-full font-semibold transition-all duration-300 ease-in-out"
               >
                 Signup
               </Link>
